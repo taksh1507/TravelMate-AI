@@ -9,3 +9,9 @@ uvicorn[standard]
 
 # Pydantic - Data validation (included with FastAPI, but listed for clarity)
 pydantic
+
+# OpenAI - For AI-powered itinerary generation
+openai
+
+# Python-dotenv - For managing environment variables
+python-dotenv
