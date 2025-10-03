@@ -1,0 +1,11 @@
+# TravelMate AI - Python Dependencies
+# Install these packages using: pip install -r requirements.txt
+
+# FastAPI - Modern web framework for building APIs
+fastapi
+
+# Uvicorn - ASGI server for running FastAPI applications
+uvicorn[standard]
+
+# Pydantic - Data validation (included with FastAPI, but listed for clarity)
+pydantic
